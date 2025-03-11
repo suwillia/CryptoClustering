@@ -2,7 +2,7 @@
 
 ## **Description**
 
-This assignment provides visualization on whether we can use python /colab to use unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+This project demonstrates how Python and Google Colab can be utilized to implement unsupervised learning techniques to analyze whether cryptocurrency behaviors correlate with price fluctuations over 24-hour and 7-day periods.
 
 ---
 ## Requirements
